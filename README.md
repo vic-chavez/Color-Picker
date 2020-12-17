@@ -1,2 +1,2 @@
 # Color-Picker
-Repository for Phase 2 color picker
+Pre-work Phase 2 color picker
